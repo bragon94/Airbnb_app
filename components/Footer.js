@@ -13,31 +13,32 @@ function Footer() {
       <div className="space-y-4 text-xs text-gray-800">
         <h5 className="font-bold">COMMUNITY</h5>
         <p>Accessibility</p>
-        <p>This is not a real site</p>
-        <p>Its a pretty awesome clone</p>
+        <p>Support Afghan refugees</p>
+        <p>Airbnb.org: disaster relief housing</p>
         <p>Referrals accepted</p>
-        <p>Papafam</p>
+        <p>Combating discrimination</p>
       </div>
 
       <div className="space-y-4 text-xs text-gray-800">
         <h5 className="font-bold">HOST</h5>
-        <p>Papa React</p>
+        <p>Try hosting</p>
         <p>Presents</p>
-        <p>Zero to Full Stack Hero</p>
-        <p>Hundreds of Students</p>
-        <p>Join Now</p>
+        <p>AirCover: protection for Hosts</p>
+        <p>Explore hosting resources</p>
+        <p>Visit our community forum</p>
       </div>
 
       <div className="space-y-4 text-xs text-gray-800">
         <h5 className="font-bold">SUPPORT</h5>
-        <p>Help Centre</p>
+        <p>Help Center</p>
         <p>Trust & Safety</p>
-        <p>Say Hi YouTube</p>
-        <p>Easter Eggs</p>
-        <p>For the Win</p>
+        <p>Safety information</p>
+        <p>Cancellation options</p>
+        <p>Our COVID-19 Response</p>
       </div>
     </div>
   );
 }
 
 export default Footer;
+
